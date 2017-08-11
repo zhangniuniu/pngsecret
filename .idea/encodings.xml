@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pan/entity/CommonBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pan/entity/DataBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pan/entity/IDATBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pan/entity/IENDBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pan/entity/IHDRBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pan/entity/PHYSBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pan/entity/PLTEBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pan/entity/Png.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pan/entity/PngHeader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pan/entity/SRGBBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pan/entity/TEXTBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pan/entity/TRNSBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pan/factory/BlockFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pan/utils/ByteUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pan/utils/PngUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/screct.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/sound_wavscrect.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/sound_wavscrect1.txt" charset="GBK" />
+    <file url="file://$USER_HOME$/Downloads/hidefiletopng/src/resource/screct.txt" charset="GBK" />
+  </component>
+</project>
